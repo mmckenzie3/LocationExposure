@@ -17,7 +17,7 @@ public class LocationExposure extends Activity {
 	private RelativeLayout relativeLayout;
 	private LocationManager locManager;
 	
-	private int[] colors = {Color.RED, Color.GREEN};
+	private int[] colors = {Color.BLUE, Color.GREEN};
 	private int which;
 	
 	@Override
